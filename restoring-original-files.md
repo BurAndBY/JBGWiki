@@ -27,4 +27,4 @@ Open the game in Steam, then follow these steps:
 
 ![](/assets/image_(28).png)
 
-After that, Steam will verify all files in the folder and&#x20;
+After that, Steam will verify all files in the folder and then your game should be back to normal.

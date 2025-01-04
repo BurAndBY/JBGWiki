@@ -16,5 +16,5 @@ You will be greeted with this list:
 
 This gives you a basic understanding of what SWF to open. However, not all parts of the game are split into different SWFs as shown on the screenshot (i.e. there is no menu SWF). You can find the menu in the global swf (which for numbers converts to `2660.swf`).
 
-After that, you can continue with [adding-fonts.md](../actually-universal/adding-fonts.md "mention") or [image-editing.md](../actually-universal/image-editing.md "mention").
+After that, you can continue with [Adding fonts](../actually-universal/adding-fonts.md "mention") or [Image editing](../actually-universal/image-editing.md "mention").
 

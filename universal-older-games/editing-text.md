@@ -7,7 +7,7 @@ tags: text
 
 # Editing text
 
-First, you need to find the SWF related to the part of the game you want to edit your text in, for that go to [finding-swfs-in-older-games.md](finding-swfs-in-older-games.md "mention").
+First, you need to find the SWF related to the part of the game you want to edit your text in, for that go to [Finding SWFs in older games](finding-swfs-in-older-games.md "mention").
 
 After that open your SWF in JPEXS, in the hierarchy press the **texts** folder, to the right of your screen you will see previews of all the text objects in the game:
 

@@ -11,7 +11,7 @@ Some sound effects, music and accesibility voice lines are located in BANK files
 Currently it's only possible to do simple audio file modding. To make bigger modifications you need to have a FMOD project, which we currently do not have.
 {% endhint %}
 
-First, make sure you have FMOD Bank Tools downloaded and extracted (if no, you can find a link to it in [tools.md](../tools.md "mention")).
+First, make sure you have FMOD Bank Tools downloaded and extracted (if no, you can find a link to it in [Tools](../tools.md "mention")).
 
 After that, open the game folder and in it you will be able to find several bank files, copy them and paste all the files to the bank folder in the tool folder, so then your files will look like this:
 
